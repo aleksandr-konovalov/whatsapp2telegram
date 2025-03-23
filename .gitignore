@@ -1,0 +1,13 @@
+# Binaries
+/whatsapp2telegram
+*.exe
+*.so
+*.dylib
+
+# Session data
+*.gob
+whatsapp_session*
+
+# Config with sensitive data
+config.yaml
+
